@@ -139,4 +139,5 @@ command 26: cat my_key.pub  // it returns teh ssh key. copy the file and paste i
 
 
 A new line added to file MyData.txt
-A new line added
+A new line add
+Github commad are usefull
